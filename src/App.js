@@ -1,10 +1,10 @@
 import React from 'react';
 
 const botones = [
-  { nombre: 'Crear Pedido', url: 'https://tu-url-en-railway.com/crear', color: '#4caf50' },
-  { nombre: 'Listar Pedidos', url: 'https://tu-url-en-digitalocean.com/listar', color: '#2196f3' },
-  { nombre: 'Actualizar Pedido', url: 'https://tu-url-en-otro-servicio.com/actualizar', color: '#ff9800' },
-  { nombre: 'Eliminar Pedido', url: 'https://tu-url-en-otro-servicio.com/eliminar', color: '#f44336' },
+  { nombre: 'Crear Pedido', url: 'https://artistic-growth-production.up.railway.app/crear.html', color: '#4caf50' },
+  { nombre: 'Listar Pedidos', url: 'https://docker-listar-rmqxo.ondigitalocean.app/listar.html', color: '#2196f3' },
+  { nombre: 'Actualizar Pedido', url: 'https://editar-pedido-a0539206bcc3.herokuapp.com', color: '#ff9800' },
+  { nombre: 'Eliminar Pedido', url: 'http://34.227.178.239:3003', color: '#f44336' },
 ];
 
 function App() {
