@@ -4,7 +4,7 @@ const botones = [
   { nombre: 'Crear Pedido', url: 'https://artistic-growth-production.up.railway.app/crear.html', color: '#4caf50' },
   { nombre: 'Listar Pedidos', url: 'https://docker-listar-rmqxo.ondigitalocean.app/listar.html', color: '#2196f3' },
   { nombre: 'Actualizar Pedido', url: 'https://editar-pedido-a0539206bcc3.herokuapp.com', color: '#ff9800' },
-  { nombre: 'Eliminar Pedido', url: 'http://34.227.178.239:3003', color: '#f44336' },
+  { nombre: 'Eliminar Pedido', url: 'http://3.214.20.214:3003', color: '#f44336' },
 ];
 
 function App() {
