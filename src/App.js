@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Panel de Control de Pedidos</h1>
+      <h1 style={styles.title}>Panel de Control de Pedidos DEPLOY VERCEL</h1>
 
       {/* Botones de Login/Logout */}
       {!isAuthenticated ? (
