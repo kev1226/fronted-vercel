@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Panel de Control de Pedidos DEPLOY VERCEL TEST</h1>
+      <h1 style={styles.title}>Panel de Control de Pedidos GITHUB ACTIONS</h1>
 
       {/* Botones de Login/Logout */}
       {!isAuthenticated ? (
@@ -29,7 +29,7 @@ function App() {
             style={styles.authButton}
             onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}
           >
-            Cerrar Sesión
+            Cerrar Sesión GITHUB ACTIONS
           </button>
 
           {/* Botones del sistema de pedidos */}
