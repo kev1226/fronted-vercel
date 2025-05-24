@@ -29,7 +29,7 @@ function App() {
             style={styles.authButton}
             onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}
           >
-            Cerrar Sesión GITHUB ACTIONS
+            Cerrar Sesión GITHUB ACTIONS 
           </button>
 
           {/* Botones del sistema de pedidos */}
